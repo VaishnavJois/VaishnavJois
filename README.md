@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Terraform basics, Git and GitHub...
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
 - 📫 How to reach me : mailto:github@jois.slmail.me\
-- 🤝 Connect on LinkedIn : [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&target='_blank'")](https://www.linkedin.com/in/vaishnavjois/)
 
 
 
