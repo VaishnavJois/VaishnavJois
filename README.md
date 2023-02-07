@@ -6,7 +6,7 @@
 - 👀 I’m now interested in Exploring Open-Source and its potential.
 - 🌱 I’m currently learning Terraform basics, Git and GitHub...
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
-- 📫 How to reach me : mailto:github@jois.slmail.me\
+- 📫 How to reach me : mailto:github@jois.slmail.me
 
 
 
