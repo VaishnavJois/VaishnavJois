@@ -1,5 +1,3 @@
-<!-- <a href="https://app.daily.dev/vaishnavjois"><img src="https://api.daily.dev/devcards/ec5004b05a73419a885517e8578cef6c.png?r=8re" width="400" align="right" alt="Vaishnav Jois's Dev Card"/></a> -->
-
 <a href="https://app.daily.dev/vaishnavjois"><img src="https://github.com/VaishnavJois/VaishnavJois/blob/main/devcard.svg" width="400" align="right" alt="Vaishnav Jois's Dev Card"/></a>
 
 - 👋 Hi, I’m @VaishnavJois
