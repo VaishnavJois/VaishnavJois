@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
 - 📫 How to reach me : mailto:github@jois.slmail.me
 - 🕸️ Checkout my website hosted on GitHub: <a href="https://vaishnavjois.github.io">vaishnavjois.github.io</a> 
-- 💬 Observerd something impressive in my profile or repo : I'll be more than glad if you drop a <a href="https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois ">testimonial on BioDrop</a>
+- 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a <a href="https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois ">testimonial on BioDrop</a>
 
               
 <!---
