@@ -9,9 +9,9 @@
 - 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
 - To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
 
-
 <br>
-![](/profile-3d-contrib/profile-green.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-animation.svg)
 <br>
 <!---
 VaishnavJois/VaishnavJois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
