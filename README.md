@@ -10,10 +10,10 @@
 - To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
 
 <br>
-![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/dist/github-contribution-grid-snake.svg) -->
 <br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
+----------------------------------------------------------------
 ![](./profile-3d-contrib/profile-animation.svg)
 <br>
 
