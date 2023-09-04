@@ -13,11 +13,12 @@
 ![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/github-contribution-grid-snake.svg)
 <br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
 ![](./profile-3d-contrib/profile-animation.svg)
 <br>
+
+![](./assets/Bottom_down.svg)
 <!---
 VaishnavJois/VaishnavJois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![](./assets/Bottom_down.svg)
