@@ -9,16 +9,16 @@
 - 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
 - To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
 
-<br>
+ 
 <!-- ![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/github-contribution-grid-snake.svg) -->
-<br>
+ 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
-<br>
+ 
 <!-- ![](./profile-3d-contrib/profile-animation.svg) -->
-<br>
+ 
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VaishnavJois&theme=dark&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-<br>
  
 ![](./assets/Bottom_down.svg)
 <!---
