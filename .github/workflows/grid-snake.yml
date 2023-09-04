@@ -1,5 +1,4 @@
 ## GitHub Action for generating a contribution graph with a snake eating your contributions.
-## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
 name: generate animation
 
@@ -24,6 +23,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      #check rate limit of github api request
+      - name: check rate limit
+        run: |
+          curl -i -u "${{ github.repository_owner }}:${{ secrets.GITHUB_TOKEN }}" https://api.github.com/rate_limit
+
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
