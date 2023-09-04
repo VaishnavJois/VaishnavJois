@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning Terraform basics, Git and GitHub...
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
 - 📫 How to reach me : mailto:github@jois.slmail.me
-- 🕸️ Checkout my website hosted on GitHub: <a href="https://vaishnavjois.github.io">vaishnavjois.github.io</a> 
-- 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a <a href="https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois ">testimonial on BioDrop</a>
+- 🕸️ Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io){:target="_blank"}
+- 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
+- To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
 
-              
 <!---
 VaishnavJois/VaishnavJois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
