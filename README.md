@@ -13,7 +13,7 @@
 <!-- ![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/dist/github-contribution-grid-snake.svg) -->
 <br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
-----------------------------------------------------------------
+<br>
 ![](./profile-3d-contrib/profile-animation.svg)
 <br>
 
