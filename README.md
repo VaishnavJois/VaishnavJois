@@ -10,9 +10,10 @@
 - To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
 
 <br>
-![](profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
+<br>
 <!---
 VaishnavJois/VaishnavJois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](assets/Bottom_down.svg)
+![](./assets/Bottom_down.svg)
