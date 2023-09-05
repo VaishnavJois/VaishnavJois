@@ -28,7 +28,7 @@ Certifications:
  
  [![](./assets/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/ec9f055e-1f32-4d41-8c03-eb3885924632/public_url)
  
- 
+ [![](./assets/aws-partner-accreditation-technical.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
  
 ![](./assets/Bottom_down.svg)
 <!---
