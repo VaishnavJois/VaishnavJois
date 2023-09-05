@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 <a href="https://app.daily.dev/vaishnavjois"><img src="https://github.com/VaishnavJois/VaishnavJois/blob/main/devcard.svg" width="400" align="right" alt="Vaishnav Jois's Dev Card"/></a>
 
 - 👋 Hi, I’m @VaishnavJois
