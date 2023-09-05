@@ -24,7 +24,10 @@
  
  
 Certifications:
-*coming soon*
+<!-- *coming soon* -->
+ 
+ ![](./assets/microsoft-certified-azure-fundamentals.png) ![Verify](https://www.credly.com/badges/ec9f055e-1f32-4d41-8c03-eb3885924632)
+ 
  
  
 ![](./assets/Bottom_down.svg)
