@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
 - 📫 How to reach me : mailto:github@jois.slmail.me
 - 🕸️ Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io)
+- 🕸️ Checkout my BioDrop profile: [VaishnavJois](https://www.biodrop.io/VaishnavJois)
 - 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
 - To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
 
@@ -26,8 +27,7 @@
  
  
 Certifications:
-<!-- *coming soon* -->
- 
+
  [![](./assets/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/ec9f055e-1f32-4d41-8c03-eb3885924632/public_url)
 [![](./assets/aws-partner-accreditation-technical.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
 [![](./assets/google-cloud-essentials-skill-badge_33507192.png)](https://partner.cloudskillsboost.google/public_profiles/2f676384-2141-4b86-8508-dbe1e35cf04a/badges/2708126)
