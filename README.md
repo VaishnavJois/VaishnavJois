@@ -6,7 +6,7 @@
 - 👀 I’m now interested in Exploring Open-Source and its potential.
 - 🌱 I’m currently learning Terraform basics, Git and GitHub...
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
-- 📫 How to reach me : mailto:github@jois.slmail.me
+- 📫 How to reach me : [github@jois.slmail.me](mailto:github@jois.slmail.me)
 - 🕸️ Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io)
 - 🕸️ Checkout my BioDrop profile: [VaishnavJois](https://www.biodrop.io/VaishnavJois)
 - 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
