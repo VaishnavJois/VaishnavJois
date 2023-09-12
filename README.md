@@ -27,7 +27,7 @@
 --->
 <!---[![GitHub Streak](https://github-readme-streak-stats-dusky.vercel.app?user=VaishnavJois&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)--->
 
-[![GitHub Streak](https://github-readme-streak-stats-dusky.vercel.app?user=VaishnavJois)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-dusky.vercel.app/demo/?user=VaishnavJois)](https://git.io/streak-stats)
  
 Certifications:
 
