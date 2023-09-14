@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @VaishnavJois
 - 👀 I’m now interested in Exploring Open-Source and its potential.
-- 🌱 I’m currently learning Terraform basics, Git and GitHub...
+- 🌱 I’m currently learning Terraform, Git, GitHub an GitLab...
 - 💞️ I’m looking to collaborate on privacy focussed open-source projects.
 - 📫 How to reach me : [github@jois.slmail.me](mailto:github@jois.slmail.me)
 - 🕸️ Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io)
