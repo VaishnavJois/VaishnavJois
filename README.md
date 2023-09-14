@@ -17,11 +17,11 @@
 ![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/github-contribution-grid-snake.svg)
  
 
-![](./profile-3d-contrib/profile-green-animate.svg)
- 
-
-![](./profile-3d-contrib/profile-animation.svg)
- 
+<!--![](./profile-3d-contrib/profile-green-animate.svg)
+  --->
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--![](./profile-3d-contrib/profile-animation.svg)
+ --->
 
 <!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VaishnavJois&theme=dark&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 --->
