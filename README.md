@@ -35,6 +35,32 @@ Certifications:
 [![](./assets/aws-partner-accreditation-technical.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
 [![](./assets/google-cloud-essentials-skill-badge_33507192.png)](https://partner.cloudskillsboost.google/public_profiles/2f676384-2141-4b86-8508-dbe1e35cf04a/badges/2708126)
 
+<!---
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [13.340881,74.742142]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+```
+--->
+
 
 ![](./assets/Bottom_down.svg)
 <!---
