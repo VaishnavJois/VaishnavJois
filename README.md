@@ -14,6 +14,15 @@
 
 ---
  
+ <!-- dev card status badge -->
+ [![DevCard](https://github.com/VaishnavJois/VaishnavJois/actions/workflows/DevCard.yml/badge.svg)](https://github.com/VaishnavJois/VaishnavJois/actions/workflows/DevCard.yml)
+ 
+ <!-- generate animation status badge -->
+ [![generate animation](https://github.com/VaishnavJois/VaishnavJois/actions/workflows/grid-snake.yml/badge.svg)](https://github.com/VaishnavJois/VaishnavJois/actions/workflows/grid-snake.yml)
+
+ <!-- GitHub-Profile-Readme-Generator status badge -->
+ [![GitHub-Profile-3D-Contrib](https://github.com/VaishnavJois/VaishnavJois/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/VaishnavJois/VaishnavJois/actions/workflows/profile-3d.yml)
+
 ![](https://raw.githubusercontent.com/VaishnavJois/VaishnavJois/output/github-contribution-grid-snake.svg)
  
 
