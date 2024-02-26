@@ -42,6 +42,7 @@ Certifications:
 
  [![](./assets/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/ec9f055e-1f32-4d41-8c03-eb3885924632/public_url)
 [![](./assets/aws-partner-accreditation-technical.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
+[![](./assets/aws-knowledge-cloud-essentials.png)](https://www.credly.com/badges/d07bba10-b20e-4a35-961d-3f94bb841a42/public_url)
 [![](./assets/google-cloud-essentials-skill-badge_33507192.png)](https://partner.cloudskillsboost.google/public_profiles/2f676384-2141-4b86-8508-dbe1e35cf04a/badges/2708126)
 
 <!---
