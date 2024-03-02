@@ -2,6 +2,8 @@
 
 <a href="https://app.daily.dev/vaishnavjois"><img src="https://github.com/VaishnavJois/VaishnavJois/blob/main/devcard.png" width="400" align="right" alt="Vaishnav Jois's Dev Card"/></a>
 
+[![](https://visitcount.itsvg.in/api?id=VaishnavJois&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 - 👋 Hi, I’m @VaishnavJois
 - 👀 I’m now interested in Exploring Open-Source and its potential.
 - 🌱 I’m currently learning Terraform, Git, GitHub an GitLab...
