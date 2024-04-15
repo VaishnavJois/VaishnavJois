@@ -4,16 +4,16 @@
 
 [![](https://visitcount.itsvg.in/api?id=VaishnavJois&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-- 👋 Hi, I’m @VaishnavJois
-- 👀 I’m now interested in Exploring Open-Source and its potential.
-- 🌱 I’m currently learning Terraform, Git, GitHub an GitLab...
-- 💞️ I’m looking to collaborate on privacy focussed open-source projects.
-- 📫 How to reach me : [github@jois.slmail.me](mailto:github@jois.slmail.me)
-- 🕸️ Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io)
-- 🕸️ Checkout my BioDrop profile: [VaishnavJois](https://www.biodrop.io/VaishnavJois)
-- 💬 Observed something impressive in my GitHub profile or repo : I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
+- Hi, I’m @VaishnavJois
+- I’m now interested in Exploring Open-Source and its potential.
+- I’m currently learning Terraform, Git, GitHub an GitLab...
+- I’m looking to collaborate on privacy focussed open-source projects.
+- How to reach me : [github@jois.slmail.me](mailto:github@jois.slmail.me)
+- Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io)
+- Checkout my BioDrop profile: [VaishnavJois](https://www.biodrop.io/VaishnavJois)
+- Observed something impressive in my GitHub profile or repository? I'll be more than glad if you drop a [testimonial on BioDrop](https://github.com/EddieHubCommunity/BioDrop/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+Vaishnav%20Jois&name=VaishnavJois)
 - To check how I showcase #DevCard from [daily.dev](https://app.daily.dev/): [👉Follow the guide👈](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
-
+- Lastly I highly recommend to check out [Proton Privacy](https://proton.me/), if you care about privacy. And if you're signing up for the first time, you might as well use my referral link: [Try Mail Plus for free](https://pr.tn/ref/TZ6Y91M8F2M0)
 ---
  
  <!-- dev card status badge -->
