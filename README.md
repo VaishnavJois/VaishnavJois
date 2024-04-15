@@ -46,6 +46,7 @@ Certifications:
 [![](./assets/aws-partner-accreditation-technical.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
 [![](./assets/aws-partner-generative-ai-essentials-business.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
 [![](./assets/aws-knowledge-cloud-essentials.png)](https://www.credly.com/badges/d07bba10-b20e-4a35-961d-3f94bb841a42/public_url)
+[![](./assets/aws-partner-cloud-economics-accreditation.png)](https://www.credly.com/badges/adcd0de2-2406-4cf9-a909-3fa98fdd5fb7/public_url)
 [![](./assets/google-cloud-essentials-skill-badge_33507192.png)](https://partner.cloudskillsboost.google/public_profiles/2f676384-2141-4b86-8508-dbe1e35cf04a/badges/2708126)
 
 <!---
