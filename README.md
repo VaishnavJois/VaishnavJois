@@ -5,8 +5,8 @@
 [![](https://visitcount.itsvg.in/api?id=VaishnavJois&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 - Hi, I’m @VaishnavJois
-- I’m now interested in Exploring Open-Source and its potential.
-- I’m currently learning Terraform, Git, GitHub an GitLab...
+- I’m now interested in Exploring Open-Source and privacy focused tools.
+- I’m currently learning Fundamentals of Generative AI...
 - I’m looking to collaborate on privacy focussed open-source projects.
 - How to reach me : [github@jois.slmail.me](mailto:github@jois.slmail.me)
 - Checkout my website hosted on GitHub: [vaishnavjois.github.io](https://vaishnavjois.github.io)
@@ -38,7 +38,8 @@
  
 Certifications:
 
- [![](./assets/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/ec9f055e-1f32-4d41-8c03-eb3885924632/public_url)
+[![](./assets/microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/ec9f055e-1f32-4d41-8c03-eb3885924632/public_url)
+[![](./assets/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/b86eaf40-e9c4-4187-8aec-35af26058361/public_url)
 [![](./assets/aws-partner-accreditation-technical.png)](https://www.credly.com/badges/43c62cf9-51fd-4703-ba17-80574538e097/public_url)
 [![](./assets/aws-partner-generative-ai-essentials-business.png)](https://www.credly.com/badges/9550e135-79ad-4c1b-ace2-e5d4c4f5b42d/public_url)
 [![](./assets/aws-knowledge-cloud-essentials.png)](https://www.credly.com/badges/d07bba10-b20e-4a35-961d-3f94bb841a42/public_url)
